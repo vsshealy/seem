@@ -1,6 +1,6 @@
 <?php 
     /**
-     * index.php
+     * search.php
      * @package seem
      * @author Scott Shealy
      * @version 1.0.0
